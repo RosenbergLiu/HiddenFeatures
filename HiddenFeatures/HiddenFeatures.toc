@@ -1,0 +1,16 @@
+## Interface: 16001
+## Title: Hidden Features
+## Notes: Switchboard for built-in client features that WoW: Forever ships disabled and hides from the options menu.
+## Title-zhCN: 隐藏功能
+## Title-zhTW: 隐藏功能
+## Notes-zhCN: 开启或关闭 魔兽世界：永恒 中默认关闭且不在设置菜单里的客户端内置功能。
+## Notes-zhTW: 开启或关闭 魔兽世界：永恒 中默认关闭且不在设置菜单里的客户端内置功能。
+## Version: 1.0.0
+## SavedVariables: HiddenFeaturesDB
+## Category: Interface Enhancements
+## IconTexture: Interface\Icons\INV_Misc_Gear_01
+
+Locale.lua
+Features.lua
+Core.lua
+UI.lua
